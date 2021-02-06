@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewJava</string>
+    <string name="star">star</string>
+    <string name="adicionar_email">Adicionar Email</string>
+</resources>
